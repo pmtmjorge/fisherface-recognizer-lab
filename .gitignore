@@ -29,14 +29,3 @@ ENV/
 .idea/
 *.swp
 *.swo
-
-# Project specific ignores
-test_accuracy - Copy.py
-fisher_celebrity_model.npz
-lbph_normalized_model.yml
-shape_predictor_5_face_landmarks.dat
-
-# User excluded directories
-experiments/
-local_tmp/
-vobj/
