@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Data
+*.npz
+*.yml
+*.mat
+*.dat
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Logic and Logs
+results.txt
+test_output.txt
+confusion_matrix.png
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific ignores
+test_accuracy - Copy.py
+fisher_celebrity_model.npz
+lbph_normalized_model.yml
+shape_predictor_5_face_landmarks.dat
