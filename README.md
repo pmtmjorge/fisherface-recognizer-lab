@@ -17,8 +17,6 @@ This repository contains tools for training and evaluating a face recognition mo
 
 ```text
 .
-├── experiments/       # Legacy scripts and experimental code
-├── local_tmp/         # Local models, images, and data (git-ignored)
 ├── .gitignore         # Rules to keep the repository clean
 ├── README.md          # Documentation
 ├── recognizer.py      # Core Fisherface / Eigenface logic
